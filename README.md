@@ -79,7 +79,7 @@ Aplikacja typu todolist napisana z uzyciem Reacta. Aplikacja pozwala na dodawani
 ---
 
 ### 📔Dekoratornia Olszynka
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/luqol/dekoratornia-olszynka)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dekoratornia-olszynka.pl/)
 
 Aplikacja typu Single Page. Warto zwrócic uwage na galerie napisana bez pomocy zewnetrzynych bibiotek oraz na działający formularz kontaktowy.
