@@ -97,7 +97,47 @@ Aplikacja typu Single Page. Warto zwrócic uwage na galerie napisana bez pomocy 
 
 ---
 
+### 📔CCShop 
+frontend:  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/luqol/cc-shop-client) 
 
+backend: [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/luqol/project-ccshop-api)
+
+Aplikacja fullstackowa sklepu internetowego. Serwer api napisany przy użyciu Nestjs oraz Prisma, korzysta z bazy danych MySql a aplikacja za pomocą React. 
+
+ ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+ [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+ [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+ [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
+ [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+ [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+ [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
+
+**Highlights:**
+- Serwer api napisny przy uzyciu Nestjs
+- Aplikacja klienta w React
+- Wykorzytano baze danych MySql
+
+---
+<!--
+### 📔mongodb 
+frontend:  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/luqol/cc-shop-client)
+backend: [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/luqol/project-ccshop-api)
+
+Aplikacja fullstackowa sklepu internetowego. Serwer api napisany przy użyciu Nestjs oraz Prisma, korzysta z bazy danych MySql a aplikacja za pomocą React. 
+
+ ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+ [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+ [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+ [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)
+ [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+
+**Highlights:**
+- 
+
+---
+-->
 ## 📫Contact
 E-mail: lukasz.olbrycht@gmail.com
 
